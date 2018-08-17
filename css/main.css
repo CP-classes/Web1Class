@@ -44,6 +44,7 @@ p {
 
 .holder {
     position: absolute;
+	opacity:.05;
 }
 .h1 {
    */ position: relative; */
