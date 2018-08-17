@@ -78,7 +78,7 @@ Media Queries
 
 @media (max-width: 500px) {
 	
-	body {
+	body .container {
 		max-width: 85%;
 		width: 85%;
 }
