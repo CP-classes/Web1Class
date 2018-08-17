@@ -31,9 +31,9 @@ h3	{color: #555cda;
     background: #f5f5f5;
 }
 .quote {
-    font-size: 2.5em;
-    line-height: 1.95em;
-    color: #90a29d;
+	font-size: 2.5em;
+	line-height: 1.95em;
+	color: #90a29d;
 	background: rgba(255,255,255,.5);
 }
 .quote::first-letter {font-size: 4em}
@@ -48,7 +48,9 @@ p {
 	opacity:.5;
 }
 .quest1 {
-    transform: rotate(90deg);
+	padding: 50px, 0, 0, 5px;
+	position: absolute;
+	transform: rotate(90deg);
 }
 	
 footer {
