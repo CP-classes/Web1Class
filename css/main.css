@@ -1,6 +1,7 @@
 body {
     font-family: 'Sarala', sans-serif;
     margin: 60px auto;
+    color: #616d8c;
     width: 70%;
 }
 nav ul, footer ul {
@@ -23,6 +24,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family: 'Sarala', sans-serif;
+    color: #616d8c;
 }
 p {
     font-size: 1.5em;
