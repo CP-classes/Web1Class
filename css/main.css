@@ -34,7 +34,7 @@ h3	{color: #555cda;
     font-size: 2.5em;
     line-height: 1.95em;
     color: #90a29d;
-	background: rgba(255,255,255,.7);
+	background: rgba(255,255,255,.07);
 }
 .quote::first-letter {font-size: 4em}
 p {
@@ -45,7 +45,7 @@ p {
 
 .holder {
     position: absolute;
-	opacity:.05;
+	opacity:.08;
 }
 .h1 {
    */ position: relative; */
