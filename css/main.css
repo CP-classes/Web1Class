@@ -71,38 +71,3 @@ ul.posts li {
     list-style: none;
 }
 
-/*
-Media Queries
---------------------------- */
-/* @media (max-width: 1110px) {
-  body {
-    /* font-size: 0.875em; */
-  }
-
-/*  .site-title .h1 {
-    font-size: 1.2em;    /* was 1.2 */
-  } */
-}*/
-
-
-/*  @media (max-width: 900px) {
-
-  body {
-    width: 60%;
-  }
-
-}*/
-
-/* @media (max-width: 500px) {
-	
-	body .container {
-		max-width: 85%;
-		width: 85%;
-}
-
-
-
-
-}
-
-
