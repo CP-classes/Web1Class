@@ -49,7 +49,7 @@ p {
 }
 .quest1 {
 	float: left;
-	position: absolute;
+
 	transform: rotate(90deg);
 }
 	
