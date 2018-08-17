@@ -1,4 +1,5 @@
 # Jekyll
+baseurl: /Web1Class.github.io
 name: Web1Class
 markdown: kramdown
 
