@@ -45,13 +45,13 @@ p {
 
 .holder {
     position: absolute;
-	top: 75px;
+	top: 155px;
 	opacity:.5;
 }
 .quest1 {
 	position: absolute;
-	left: -25px;
-	top: 175px;
+	left: -65px;
+	top: 225px;
 
 	transform: rotate(90deg);
 }
