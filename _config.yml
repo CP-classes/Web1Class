@@ -1,1 +1,2 @@
-theme: jekyll-theme-leap-day
+	name: Web1Class
+	markdown: kramdown
