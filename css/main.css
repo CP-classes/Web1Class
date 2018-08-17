@@ -48,9 +48,7 @@ p {
 	opacity:.5;
 }
 .quest1 {
-	position-top: 50px;
-	position-left: 5px;
-	padding: 140px, 775px, 0, 0;
+	float: left;
 	position: absolute;
 	transform: rotate(90deg);
 }
