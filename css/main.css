@@ -49,8 +49,8 @@ p {
 }
 .quest1 {
 	position: absolute;
-	left: 5px;
-	top: 75px;
+	left: -5px;
+	top: 175px;
 
 	transform: rotate(90deg);
 }
