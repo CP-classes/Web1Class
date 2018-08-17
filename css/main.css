@@ -46,8 +46,8 @@ p {
     position: absolute;
 }
 .h1 {
-    position: relative;
-		    transform: rotate(90deg);
+   */ position: relative; */
+    transform: rotate(90deg);
 }
 	
 footer {
