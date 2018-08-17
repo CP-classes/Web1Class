@@ -40,6 +40,14 @@ p {
     line-height: 1.4em;
     color: #616d8c;
 }
+
+.holder {
+    position: absolute;
+}
+.h1 {
+    position: relative;
+}
+	
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
