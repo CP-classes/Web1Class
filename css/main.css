@@ -44,18 +44,18 @@ p {
     color: #616d8c;
 }
 
-.holder {
+/* .holder {
     position: absolute;
 	top: 155px;
 	opacity:.5;
-}
-/* .quest1 {
+} */
+.quest1 {
 	position: absolute;
 	left: -65px;
 	top: 225px;
 
 	transform: rotate(90deg);
-} */
+}
 	
 footer {
     border-top: 1px solid #d5d5d5;
