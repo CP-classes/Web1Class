@@ -26,6 +26,7 @@ h1 {
     font-size: 3em;
     font-family: 'Sarala', sans-serif;
     color: #616d8c;
+	background: #f5ffc9;
 
 }
 h3	{color: #555cda;
@@ -36,7 +37,7 @@ h3	{color: #555cda;
 	font-size: 2.5em;
 	line-height: 1.95em;
 	color: #90a29d;
-	background: rgba(255,255,255,.5);
+	/*background: rgba(255,255,255,.5);*/
 }
 .quote::first-letter {font-size: 3.5em}
 p {
