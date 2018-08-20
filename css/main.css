@@ -17,7 +17,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #655aaa;                            /*   434a5e  #999; */
+    color: #3852a6;                            /*   434a5e  #999; */
 }
 a:hover {
     text-decoration: underline;
@@ -40,7 +40,7 @@ h3	{
 }
 .quote::first-letter {
 	font-size: 3.5em;
-	color: #6e8b63;                      /* #b02112; */
+	color: #3852a6;                      /* #b02112; */
 }
 p {
     font-size: 1.5em;
