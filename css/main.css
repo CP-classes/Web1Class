@@ -38,7 +38,10 @@ h3	{
 	color: #616d8c;                              /*  #555cda; #90a29d; */
 	/*background: rgba(255,255,255,.5);*/
 }
-.quote::first-letter {font-size: 3.5em}
+.quote::first-letter {
+	font-size: 3.5em;
+	color: #555cda;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
