@@ -42,7 +42,7 @@ h3	{
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #616d8c;
+    color: #555cda;
 }
 
 /* .holder {
@@ -54,7 +54,6 @@ p {
 	position: absolute;
 	left: -65px;
 	top: 225px;
-
 	transform: rotate(90deg);
 }
 	
