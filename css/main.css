@@ -47,6 +47,9 @@ p {
     line-height: 1.4em;
     color: #616d8c;
 }
+p.signature {
+	font-size: .75em;
+}
 
 /* .holder {
     position: absolute;
