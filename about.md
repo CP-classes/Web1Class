@@ -94,7 +94,7 @@ Using Mozilla's [X-Ray Goggles](https://goggles.webmaker.org/) let's remix a web
 
 Read the Web inventor's brief personal history. Do you think his vision of the web has held true? Come to class on Thursday prepared to discuss this.
 
-### 2. Set Up Your Blog 
+### 2. Set Up Your Blog - by Tuesday 9.4
 
 Throughout the semester we will be utilizing a WordPress blog. 
 
