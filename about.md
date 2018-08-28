@@ -6,6 +6,8 @@ title: Hello World
 
 Welcome to DMD1070, Foundations of Web Design. This course is designed to guide you through the process of planning, designing, and implementing your first website. In this lesson we'll gain our bearings by understanding a bit about the history of the web and how the web works.
 
+You could say that a great book on a subject gives significant depth, but it also provides the voice of the author. This course was originally developed by Adam Scott, who taught this class at UCONN Stamford previously. The content Adam developed is excellent and I thank Adam for his sharing it with us. 
+
 <!--more-->
 
 [Jump to the assignments](#assignments)
