@@ -111,4 +111,4 @@ Inappropriate materials posted to your blog or comments on classmates' blogs wil
 
 ## Lesson Credits
 
-Some of the content and activities of this lesson were adapted from [Teach the Web](http://teachtheweb.com/course_materials/wordpress.php) and [It's My Web](http://people.mozilla.org/~cmills/st-chads/)
+Course originally developed by Adam Scott. Some of the content and activities of this lesson were adapted from [Teach the Web](http://teachtheweb.com/course_materials/wordpress.php) and [It's My Web](http://people.mozilla.org/~cmills/st-chads/)
